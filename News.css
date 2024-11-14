@@ -1,0 +1,40 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+}
+
+.navbar {
+    background-color: #1e1e1e;
+}
+
+.navbar-brand, .nav-link {
+    color: #61dafb !important;
+}
+
+.header {
+    background-color: #333;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.header h1 {
+    color: #61dafb;
+    margin-bottom: 10px;
+}
+
+.card {
+    background-color: #333;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: #61dafb;
+}
+
+.footer {
+    background-color: #1e1e1e;
+    color: #61dafb;
+    padding: 20px;
+    text-align: center;
+}
